@@ -13,3 +13,5 @@ In order to be able to run cucumber with:
 >npx cucumber-js
 
 Once your working directory is in this folder.
+
+Gherkin scripts and JS implementation are both inside features folder (and steps_definitions, respectively).
