@@ -1,0 +1,15 @@
+{
+    "name": "Gherkin",
+    "version": "1.0.0",
+    "description": "myFirstGherkin",
+    "main": "index.js",
+    "scripts": {
+        "test": "cucumber-js"
+    },
+    "keywords": [],
+    "author": "Juan Santos Poyato",
+    "license": "ISC",
+    "devDependencies": {
+        "cucumber": "^6.0.7"
+    }
+}
